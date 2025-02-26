@@ -1,1 +1,1 @@
-# Linear_Regression_predicting_-rock_vs_mine-
+# Linear_Regression_predicting_Rock_vs_Mine
